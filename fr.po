@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-10-19 10:16+0000\n"
+"PO-Revision-Date: 2024-10-23 10:15+0000\n"
 "Last-Translator: Maxime Tourneur <maximetourneur66@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/my-portfolio/"
 "main-site/fr/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.8-rc\n"
+"X-Generator: Weblate 5.8.2-dev\n"
 
 msgid "Header"
 msgstr "Bonjour"
@@ -19,3 +19,9 @@ msgstr "Bienvenue sur le site Web de Maxime Tourneur !"
 
 msgid "Thanks"
 msgstr "Merci à M.PASCAL pour la découverte du logiciel !"
+
+msgid "Contact button"
+msgstr "Me contacter"
+
+msgid "Contact options"
+msgstr "Retrouvez moi sur linkedin !"
